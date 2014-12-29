@@ -1,6 +1,6 @@
 abstract.md
 introduction.md
-Background.md
+background.md
 Data publication.md
 Data integration.md
 Discovery and Analysis.md
