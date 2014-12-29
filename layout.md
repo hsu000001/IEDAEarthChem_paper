@@ -1,4 +1,5 @@
 abstract.md
+highlights.md
 introduction.md
 background.md
 data publication.md
