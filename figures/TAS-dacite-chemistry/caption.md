@@ -1,1 +1,1 @@
-**Figure 2b.** Two TAS (Total Alkali versus Silica) diagrams showing samples that match the chemically-determined definition of dacite (contrast with Figure 2a). 
+**Figure 2b.**  TAS (Total Alkali versus Silica) diagram showing samples that match the chemically-determined definition of dacite (contrast with Figure 2a, what authors assign as "dacite" in their writing). 
