@@ -1,1 +1,1 @@
-Replace this text with your caption
+Figure 1. Map of sample locations from the federated databases of the EarthChem Portal, generated from the IEDA Data Browser.
