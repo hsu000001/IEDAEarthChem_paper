@@ -1,4 +1,4 @@
-Abstract.md
+abstract.md
 Introduction.md
 Background.md
 Data publication.md
