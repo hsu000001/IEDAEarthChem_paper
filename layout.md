@@ -3,7 +3,7 @@ introduction.md
 background.md
 data publication.md
 data integration.md
-Discovery and Analysis.md
+discovery and analysis.md
 figures/earthchemfig1/earthchemfig1.png
 data discovery 2.md
 figures/TAS-dacite-author/TAS-dacite-author.png
