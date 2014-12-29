@@ -1,1 +1,1 @@
-Replace this text with your caption
+**Figure 2a.** Author-designated classification of a rock classification (samples called “dacite” in the published work).
