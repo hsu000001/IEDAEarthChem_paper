@@ -2,7 +2,7 @@ abstract.md
 introduction.md
 background.md
 data publication.md
-Data integration.md
+data integration.md
 Discovery and Analysis.md
 figures/earthchemfig1/earthchemfig1.png
 Data discovery 2.md
