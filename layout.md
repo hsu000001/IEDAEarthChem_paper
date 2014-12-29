@@ -10,4 +10,4 @@ figures/TAS-dacite-author/TAS-dacite-author.png
 figures/TAS-dacite-chemistry/TAS-dacite-chemistry.png
 data discovery 3.md
 benefits.md
-Acknowledgments.md
+acknowledgments.md
