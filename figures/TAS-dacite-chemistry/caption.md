@@ -1,1 +1,1 @@
-Replace this text with your caption
+**Figure 2.** Two TAS (Total Alkali versus Silica) diagrams showing that the author-designated classification of a rock classification (samples called “dacite” in the published work) (a) varies significantly from the chemically-determined definition (samples with the chemical composition of dacite (b). 
