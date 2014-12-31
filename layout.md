@@ -4,6 +4,7 @@ introduction.md
 background.md
 data publication.md
 data integration.md
+table 1.tex
 discovery and analysis.md
 figures/earthchemfig1/earthchemfig1.png
 data discovery 2.md
