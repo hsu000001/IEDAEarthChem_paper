@@ -1,1 +1,1 @@
-**Figure 1.** Map of sample locations from the federated databases of the EarthChem Portal, generated from the IEDA Data Browser.
+**Figure 1.** Map of sample locations from the federated databases of the EarthChem Portal, generated from the IEDA Data Browser (accessed 29 December 2014).
